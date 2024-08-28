@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assaignment02.MVC.props" />
+</Project>

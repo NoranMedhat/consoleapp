@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "lL8stFyWoR+HWKjCz8qLprPeBYJToq/YewgM2b4W5r0=",
+  "Source": "Assaignment02.MVC",
+  "BasePath": "_content/Assaignment02.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assaignment02.MVC\\wwwroot",
+      "Source": "Assaignment02.MVC",
+      "ContentRoot": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\",
+      "BasePath": "_content/Assaignment02.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "Assaignment02.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\",
+      "BasePath": "_content/Assaignment02.MVC",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Assaignment02.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\",
+      "BasePath": "_content/Assaignment02.MVC",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "Assaignment02.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\wwwroot\\",
+      "BasePath": "_content/Assaignment02.MVC",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}

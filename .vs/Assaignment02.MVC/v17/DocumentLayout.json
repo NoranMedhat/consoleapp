@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|c:\\users\\noranmedhat\\source\\repos\\assaignment02.mvc\\assaignment02.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FFF84-41E8-4BEE-9DA1-41ECB3930781}|Assaignment02.MVC\\Assaignment02.MVC.csproj|solutionrelative:assaignment02.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Program.cs",
+              "RelativeToolTip": "Assaignment02.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:56:23.719Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:08:06.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:52:09.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:41:58.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:37:40.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:37:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:36:09.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assaignment02.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:19:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assaignment02.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NoranMedhat\\source\\repos\\Assaignment02.MVC\\Assaignment02.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assaignment02.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:46:02.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

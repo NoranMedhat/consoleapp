@@ -1,0 +1,44 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+     <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+
+</head>
+<body>
+    <header class="align-items-center">
+        @*       Html Tag *@
+
+        @* <a href="/home/index" class="btn btn-primary">Home</a>
+        <a href="/home/AboutUs" class="btn btn-dark">AboutUs</a>
+        <a href="/home/Contact" class="btn btn-danger">Contact</a>
+        <a href="/home/Privacy" class="btn btn-secondary">privacy</a> *@
+
+        @*   Html Helper*@
+
+       @*  @Html.ActionLink("Home", "Index", "Home", null, new { @class = "btn btn-danger"}),
+        @Html.ActionLink("AboutUs", "AboutUs", "Home", null, new { @class = "btn btn-dark" }) *@
+
+        @*  Tag Helper *@
+
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a>
+        <a asp-controller="Home" asp-action="AboutUs" class="btn btn-dark">AboutUs</a>
+        <a asp-controller="Home" asp-action="Contact" class="btn btn-danger">Contact</a>
+        <a asp-controller="Home" asp-action="privacy" class="btn btn-secondary">privacy</a>
+
+
+
+
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        copy rights &copy Route Academy @DateTime.Now.Year
+    </footer>
+</body>
+
+</html>
